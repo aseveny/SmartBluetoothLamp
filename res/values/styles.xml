@@ -1,0 +1,17 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="AppBaseTheme">
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="AppoTechTheme" parent="AppBaseTheme">
+        <item name="android:gravity">center</item>
+        <item name="android:homeAsUpIndicator">@drawable/theme_back</item> <!--返回icon-->
+         <item name="android:windowNoTitle">true</item>      
+    </style>
+
+</resources>

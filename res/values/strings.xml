@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bluetooth</string>
+
+    <!-- BluetoothChat -->
+    <string name="send">SEND</string>
+    <string name="send1">MODE</string>
+    <string name="send2">VOL +</string>
+    <string name="send3">RTC</string>
+    <string name="send4">PREV</string>
+    <string name="send5">P/P</string>
+    <string name="send6">NEXT</string>
+    <string name="send7">CHANGE BT NAME</string>
+    <string name="send8">VOL -</string>
+    <string name="send9">CUSTOM</string>
+    <string name="send10">LINE-IN</string>
+    <string name="send11">MP3</string>
+    <string name="send12">CUSTOM</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="cancel_paired">Cancel paired</string>
+    <string name="warm">Warm</string>
+    <string name="close_spp">Close the spp?</string>
+    <string name="pleaseinputname">Please input the name</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_not_connected">not connected</string>
+
+    <!-- DeviceListActivity -->
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices（Long ress cancel paired）</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="connect">Connect a device</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="light_set">灯光设置</string>
+    <string name="chromaticity_low">色度0%</string>
+    <string name="chromaticity_hight">色度100%</string>
+    <string name="color_set">色彩设置</string>
+     <string name="device_name">SAYAO LIGHTING</string>
+
+</resources>
